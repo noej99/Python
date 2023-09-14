@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding/NaverNewsToCSV.py=utf-8
+encoding/getBus.py=utf-8
+encoding/getKakaoBlog.py=utf-8
+encoding/getNaverNews.py=utf-8
+encoding/getSubway.py=utf-8
+encoding/getWeather.py=utf-8
+encoding/kakaoBlogToCSV.py=utf-8
+encoding/p01_analysisDust.py=utf-8
+encoding/p02_analysisNaverNews.py=utf-8
+encoding/p03_JSONParsing.py=utf-8
+encoding/weatherToCSV.py=utf-8

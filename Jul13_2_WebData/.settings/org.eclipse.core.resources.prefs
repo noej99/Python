@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding/KMAWeatherToCSV.py=utf-8
+encoding/SeoulDustToCSV.py=utf-8
+encoding/getKMAWeather.py=utf-8
+encoding/getSeoulDust.py=utf-8
+encoding/p01_HTTP.py=utf-8
+encoding/p02_XMLParsing.py=utf-8
